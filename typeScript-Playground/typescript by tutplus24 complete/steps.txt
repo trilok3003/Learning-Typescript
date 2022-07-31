@@ -1,0 +1,6 @@
+npm install -g typescript
+tsc -v //for version
+tsc app.ts // compile in es5 
+tsc app.ts --target ES6 // compile in es6
+tsc app.ts --watch
+tsc *.ts -w	

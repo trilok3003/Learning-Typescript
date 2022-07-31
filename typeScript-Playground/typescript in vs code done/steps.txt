@@ -1,0 +1,5 @@
+1.npm install -g typescript
+2.tsc --init
+3. shift ctrl p than type configure task
+4.tsc app.ts  // convert app.ts to app.js
+5.node app.js
